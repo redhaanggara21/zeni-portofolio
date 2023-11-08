@@ -10,7 +10,7 @@ const Footer = () => {
             <div className='col-span-2'>
                 <img src={logo} className="h-[25px]" />
                 <h3 className='text-2xl font-bold mt-10'>Contact Us</h3>
-                <h3 className='py-2 text-[#6D737A]'>Call : +6281354950219</h3>
+                <h3 className='py-2 text-[#6D737A]'>Call : +628</h3>
                 <h3 className='py-2 text-[#6D737A]'>Present store beloved27<br></br> grab it fast</h3>
                 <h3 className='py-2 text-[#363A3D]'>Email: example@mail.com</h3>
                 <div className='flex gap-4 py-4'>
